@@ -5,5 +5,4 @@
 - CSS
 - JS
 - SASS
-- GULP
 - БЭМ
